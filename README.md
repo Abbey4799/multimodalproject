@@ -9,7 +9,7 @@
 ```
 |-- multimodalproject
     |-- crawler		#爬取数据
-		|-- method		#AMEL (Aspect-based Multimodal Entity Linking)数据集构建
+    |-- method		#AMEL (Aspect-based Multimodal Entity Linking)数据集构建
     |-- dataset		#本项目构建的数据集
 ```
 
